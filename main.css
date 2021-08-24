@@ -1,6 +1,9 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.logo { 
+    width: auto;
+    height: auto;
+    text-align:center;
   }
+  
+  .logo img {
+    display:inline-block;
+  } 
